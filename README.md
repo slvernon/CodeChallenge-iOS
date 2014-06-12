@@ -7,7 +7,7 @@ built the [iOS App](http://orainteractive.com/dryv) that is currently [live](htt
 The application utilizes a subtle background color change throughout the user flow.  A demonstration of the effect can 
 be seen below.  Notice how the background slowly changes from blue to green as the user progresses through the application.
 
-![ChangingBackground](https://github.com/jeffreycamealy/ChangingBackground/blob/master/README_Resources/Dryv.gif?raw=true)  
+![ChangingBackground](https://github.com/asugai/CodeChallenge-iOS/blob/master/README_Resources/Dryv.gif?raw=true)  
 
 ## Challenge
 Your challenge is to recreate the main color change functionality.  
@@ -19,7 +19,7 @@ between two view controllers.
 A demo of the solution is shown
 below.
 
-![ChangingBackground](https://github.com/jeffreycamealy/ChangingBackground/blob/master/README_Resources/ChangingBackground.gif?raw=true)
+![ChangingBackground](https://github.com/asugai/CodeChallenge-iOS/blob/master/README_Resources/ChangingBackground.gif?raw=true)
 
 ## Requirements
 1. Fork this repository
