@@ -10,6 +10,8 @@
 
 @interface FirstViewController : UIViewController
 
+@property UIImage* backgroundImage;
+
 - (IBAction)goForwardButtonPressed;
 
 @end

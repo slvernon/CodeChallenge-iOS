@@ -10,6 +10,9 @@
 
 @interface SecondViewController : UIViewController
 
+@property UIImage* backgroundImage;
+@property UIViewController* vParentViewController;
+
 - (IBAction)goBackButtonPressed;
 
 @end

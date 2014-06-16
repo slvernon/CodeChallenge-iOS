@@ -10,4 +10,8 @@
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
+@property UIImage* imgOldImage, *imgNewImage;
+@property UIImageView* imgOldView, *imgNewView;
+
 @end
+
